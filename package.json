@@ -1,0 +1,27 @@
+{
+  "name": "homebridge-lightswitch",
+  "version": "1.0.0",
+  "description": "Homebridge LightSwitch",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilchaddha/homebridge-lightSwitch.git"
+  },
+  "keywords": [
+    "Homebridge",
+    "light",
+    "switch",
+    "HAP",
+    "Homekit",
+    "ios"
+  ],
+  "author": "Sahil Chaddha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilchaddha/homebridge-lightSwitch/issues"
+  },
+  "homepage": "https://github.com/sahilchaddha/homebridge-lightSwitch#readme"
+}
